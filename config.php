@@ -1,7 +1,7 @@
 <?php
-	$website="http://localhost";
-	$uid="";
-	$secret="";
+	$website="https://ssubielo.github.io";
+	$uid="u-s4t2ud-4f0e0b8033a2729e298eca567f7d9f8ae5b43838b3c335497b7d533acd800d32";
+	$secret="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";
 
 	$after_auth="{$website}/token.php";
 	$index="{$website}/index.php";
